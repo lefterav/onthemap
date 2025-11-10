@@ -1,0 +1,10 @@
+2025-11-03.20-12-58 sudo apt update && sudo apt install teams-for-linux 
+2025-11-03.20-15-57 sudo apt update && sudo apt install teams-for-linux 
+2025-11-03.20-18-00 pip install pandas plotly geopy
+2025-11-03.20-19-40 pip install kaleido 
+2025-11-03.20-19-56 pip install --upgrade pip
+2025-11-10.16-10-06 git remote add origin git@github.com:lefterav/onthemap.git 
+2025-11-10.16-10-20 git init . 
+2025-11-10.16-10-22 git remote add origin git@github.com:lefterav/onthemap.git 
+2025-11-10.16-10-27 git pull
+2025-11-10.16-10-38 git branch --set-upstream-to=origin/main main
